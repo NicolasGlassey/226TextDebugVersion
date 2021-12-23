@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29905.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TextManager", "TextManager\TextManager.csproj", "{4BD1AADD-4327-4EF7-A936-7ACBEAD02FB6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestTextManager", "TextManager\TestTextManager\TestTextManager.csproj", "{E965F7DF-E40F-439F-B1A2-51311D30723E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4BD1AADD-4327-4EF7-A936-7ACBEAD02FB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BD1AADD-4327-4EF7-A936-7ACBEAD02FB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BD1AADD-4327-4EF7-A936-7ACBEAD02FB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BD1AADD-4327-4EF7-A936-7ACBEAD02FB6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E965F7DF-E40F-439F-B1A2-51311D30723E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E965F7DF-E40F-439F-B1A2-51311D30723E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E965F7DF-E40F-439F-B1A2-51311D30723E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E965F7DF-E40F-439F-B1A2-51311D30723E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {67D4ABF9-E36D-4EB0-ACFA-DA2484264AE8}
+	EndGlobalSection
+EndGlobal
